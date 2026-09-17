@@ -41,4 +41,4 @@ The repositories on this profile document frameworks, checklists and operating s
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/francocervino/) · [Email](mailto:francocervino10@gmail.com)
+[Email](mailto:francocervino10@gmail.com)
