@@ -23,13 +23,17 @@ With 6+ years of experience in Paid Media and Planning, I turn business objectiv
 
 ## Current projects
 
-### [Go Surge Digital](https://github.com/francocervino10-dot/go-surge-digital)
+### Go Surge Digital
 
 Building practical systems around digital presence, acquisition and lead generation.
 
-### [A Obra MKT](https://github.com/francocervino10-dot/a-obra-mkt)
+[Website](https://gosurgedigital.digital) · [Repository](https://github.com/francocervino10-dot/go-surge-digital)
+
+### A Obra MKT
 
 A public home for project documentation, references and resources as they become ready for publication.
+
+[Website](https://www.obramkt.com) · [Repository](https://github.com/francocervino10-dot/a-obra-mkt)
 
 ### DTC Venture Lab
 
